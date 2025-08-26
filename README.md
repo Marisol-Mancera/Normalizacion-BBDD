@@ -27,6 +27,10 @@ El objetivo de esta práctica fue: **mejorar la calidad del modelo de datos**, e
    - Se eliminaron dependencias transitivas.
    - Cada atributo depende únicamente de la clave primaria.
 
+<img width="1591" height="373" alt="Captura de pantalla 2025-08-26 122235" src="https://github.com/user-attachments/assets/0c3dc931-1aca-4d18-b5cc-246b50f890d7" />
+
+
+
 ---
 
 ## 📐 Diagramas
